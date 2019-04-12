@@ -1,0 +1,2815 @@
+2019-04-12 11:27:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039639</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:27:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039639',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039639',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:27:19 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:27:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039669</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:27:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039669',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039669',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:27:49 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:27:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039678</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:27:58 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039678',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039678',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:27:58 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:28:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039686</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[关注海报]]></EventKey>
+</xml>
+
+2019-04-12 11:28:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039690</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:28:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039690',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039690',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:28:10 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:29:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039741</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:29:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039741',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039741',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:29:01 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:29:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039747</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:29:07 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039747',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039747',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:29:07 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:30:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039815</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:30:15 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039815',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039815',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:30:15 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:30:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039842</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:30:42 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039842',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039842',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:30:42 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:32:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555039920</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:32:00 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555039920',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555039920',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:32:00 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:34:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555040060</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:34:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555040060',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040060',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:34:20 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:35:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555040101</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/web/merchant.php?i=1]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:35:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555040101',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040101',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:35:01 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:35:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555040119</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/web/merchant.php?i=1]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:35:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555040119',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040119',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:35:19 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:37:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555040277</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:37:57 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555040277',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040277',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:37:57 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:38:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555040285</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:38:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555040285',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040285',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:38:05 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:39:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040352</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:39:12 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'createtime' => '1555040352',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040352',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:39:12 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_9oXJdq3T3RzcJ5euLVemE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:39:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040346</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_114683c0e567959b80550a88ab4f0e15]]></EventKey>
+<Ticket><![CDATA[gQHE8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAySlNaNTkxTW9ja2oxMDAwME0wN1gAAgT4uNVZAwQAAAAA]]></Ticket>
+</xml>
+
+2019-04-12 11:39:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040360</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:39:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'createtime' => '1555040360',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040360',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:39:20 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_9oXJdq3T3RzcJ5euLVemE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:39:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040373</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:39:33 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'createtime' => '1555040373',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040373',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:39:33 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_9oXJdq3T3RzcJ5euLVemE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:40:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040401</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:40:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'createtime' => '1555040401',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040401',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:40:01 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_9oXJdq3T3RzcJ5euLVemE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:41:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_9oXJdq3T3RzcJ5euLVemE]]></FromUserName>
+<CreateTime>1555040479</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:41:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'createtime' => '1555040479',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_9oXJdq3T3RzcJ5euLVemE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040479',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:41:19 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_9oXJdq3T3RzcJ5euLVemE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:41:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06rsub7w00TeH_YlZw7uyRE]]></FromUserName>
+<CreateTime>1555040487</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-04-12 11:41:27 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06rsub7w00TeH_YlZw7uyRE',
+    'createtime' => '1555040487',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'osBgU06rsub7w00TeH_YlZw7uyRE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040487',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '首次',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:41:27 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06rsub7w00TeH_YlZw7uyRE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 11:41:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06rsub7w00TeH_YlZw7uyRE]]></FromUserName>
+<CreateTime>1555040496</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 11:41:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06rsub7w00TeH_YlZw7uyRE',
+    'createtime' => '1555040496',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU06rsub7w00TeH_YlZw7uyRE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555040496',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 11:41:36 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06rsub7w00TeH_YlZw7uyRE ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 12:25:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555043119</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 12:25:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555043119',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555043119',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 12:25:19 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 12:45:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555044350</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 12:45:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555044350',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555044350',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 12:45:50 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 12:46:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555044380</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 12:46:20 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555044380',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555044380',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 12:46:20 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:18:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046282</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:18:03 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046282',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046282',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:18:03 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:18:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046335</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:18:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046335',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046335',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:18:55 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:19:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046345</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:19:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046345',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046345',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:19:05 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:20:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046429</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:20:30 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046429',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046429',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:20:30 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:25:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046756</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:25:56 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046756',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046756',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:25:56 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:26:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046805</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:26:45 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046805',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046805',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:26:45 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:27:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046821</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/web/merchant.php?i=1]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:27:01 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046821',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046821',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:27:01 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:27:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555046833</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:27:13 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555046833',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555046833',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:27:13 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:30:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047054</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:30:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047054',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047054',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:30:54 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:33:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047212</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:33:32 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047212',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047212',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:33:32 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:33:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047223</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:33:43 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047223',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047223',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:33:43 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:37:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047451</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:37:31 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047451',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047451',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:37:31 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:37:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047469</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:37:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047469',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047469',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:37:49 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:37:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047472</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:37:53 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047472',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047472',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:37:53 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:40:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047603</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:40:03 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047603',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047603',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:40:03 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:40:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047631</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:40:31 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047631',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047631',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:40:31 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:40:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047636</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/web/merchant.php?i=1]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:40:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047636',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047636',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/web/merchant.php?i=1',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:40:36 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:40:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047641</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:40:41 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047641',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047641',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:40:41 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:43:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047834</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:43:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047834',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047834',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:43:54 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:45:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047949</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:45:49 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047949',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047949',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:45:49 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:46:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555047998</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:46:38 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555047998',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555047998',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:46:38 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 13:48:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555048088</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[关注海报]]></EventKey>
+</xml>
+
+2019-04-12 13:48:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555048090</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 13:48:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555048090',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555048090',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 13:48:10 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 14:26:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0_4p8BBEmkD0YjS2IHkouLQ]]></FromUserName>
+<CreateTime>1555050360</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 14:26:00 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0_4p8BBEmkD0YjS2IHkouLQ',
+    'createtime' => '1555050360',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '437037963',
+    'from' => 'osBgU0_4p8BBEmkD0YjS2IHkouLQ',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555050360',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 14:26:00 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0_4p8BBEmkD0YjS2IHkouLQ ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2019-04-12 14:51:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU061paNjHwMzMBK3UycW8M70]]></FromUserName>
+<CreateTime>1555051908</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser]]></EventKey>
+<MenuId>437037963</MenuId>
+</xml>
+
+2019-04-12 14:51:48 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'createtime' => '1555051908',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+    'menuid' => '437037963',
+    'from' => 'osBgU061paNjHwMzMBK3UycW8M70',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1555051908',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'https://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.list.merchuser',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-04-12 14:51:48 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU061paNjHwMzMBK3UycW8M70 ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+

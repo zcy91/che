@@ -1,0 +1,11 @@
+2018-11-23 16:30:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06rsub7w00TeH_YlZw7uyRE]]></FromUserName>
+<CreateTime>1542961854</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[关注海报]]></EventKey>
+</xml>
+

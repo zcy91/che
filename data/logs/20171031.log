@@ -1,0 +1,365 @@
+2017-10-31 06:05:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0wRQRhvj1sGHt_sykTbfZFc]]></FromUserName>
+<CreateTime>1509401155</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 06:05:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0wRQRhvj1sGHt_sykTbfZFc',
+    'createtime' => '1509401155',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429024776',
+    'from' => 'osBgU0wRQRhvj1sGHt_sykTbfZFc',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509401155',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 06:05:55 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0wRQRhvj1sGHt_sykTbfZFc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-10-31 06:05:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0wRQRhvj1sGHt_sykTbfZFc]]></FromUserName>
+<CreateTime>1509401157</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 06:05:57 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0wRQRhvj1sGHt_sykTbfZFc',
+    'createtime' => '1509401157',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429024776',
+    'from' => 'osBgU0wRQRhvj1sGHt_sykTbfZFc',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509401157',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 06:05:57 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0wRQRhvj1sGHt_sykTbfZFc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-10-31 09:10:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06DHFV-8I7rhZ3pnIzN6rw4]]></FromUserName>
+<CreateTime>1509412226</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 09:10:26 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'createtime' => '1509412226',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429024776',
+    'from' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509412226',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 09:10:26 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06DHFV-8I7rhZ3pnIzN6rw4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-10-31 09:10:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06DHFV-8I7rhZ3pnIzN6rw4]]></FromUserName>
+<CreateTime>1509412242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 09:10:42 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'createtime' => '1509412242',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429024776',
+    'from' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509412242',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 09:10:42 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06DHFV-8I7rhZ3pnIzN6rw4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-10-31 11:57:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU05vgxtR-G52mFZfIkj-hG4Q]]></FromUserName>
+<CreateTime>1509422245</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-10-31 14:17:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06DHFV-8I7rhZ3pnIzN6rw4]]></FromUserName>
+<CreateTime>1509430663</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 14:17:43 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'createtime' => '1509430663',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+    'menuid' => '429024776',
+    'from' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509430663',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 14:17:43 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06DHFV-8I7rhZ3pnIzN6rw4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-10-31 14:19:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU06DHFV-8I7rhZ3pnIzN6rw4]]></FromUserName>
+<CreateTime>1509430762</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register]]></EventKey>
+<MenuId>429024776</MenuId>
+</xml>
+
+2017-10-31 14:19:22 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'createtime' => '1509430762',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+    'menuid' => '429024776',
+    'from' => 'osBgU06DHFV-8I7rhZ3pnIzN6rw4',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1509430762',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=merch.register',
+  ),
+  'module' => 'news',
+  'rule' => '11',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '16',
+    'rid' => '11',
+    'uniacid' => '1',
+    'module' => 'news',
+    'content' => '首次关注',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-10-31 14:19:22 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU06DHFV-8I7rhZ3pnIzN6rw4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

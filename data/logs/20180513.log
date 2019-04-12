@@ -1,0 +1,11 @@
+2018-05-13 20:38:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU03Fpnw6rstqUs3MXDbwVwUE]]></FromUserName>
+<CreateTime>1526215080</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

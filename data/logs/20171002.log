@@ -1,0 +1,232 @@
+2017-10-02 17:50:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937808</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-10-02 17:50:08 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'createtime' => '1506937808',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506937808',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2017-10-02 17:50:08 response :
+------------
+
+2017-10-02 17:50:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937810</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18]]></EventKey>
+<MenuId>427147390</MenuId>
+</xml>
+
+2017-10-02 17:50:10 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'createtime' => '1506937810',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'menuid' => '427147390',
+    'from' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506937810',
+    'type' => 'text',
+    'content' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-10-02 17:50:10 response :
+------------
+
+2017-10-02 17:50:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937826</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18]]></EventKey>
+<MenuId>427147390</MenuId>
+</xml>
+
+2017-10-02 17:50:26 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'createtime' => '1506937826',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'menuid' => '427147390',
+    'from' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506937826',
+    'type' => 'text',
+    'content' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-10-02 17:50:26 response :
+------------
+
+2017-10-02 17:50:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937828</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[关注]]></EventKey>
+</xml>
+
+2017-10-02 17:50:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937831</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>427147390</MenuId>
+</xml>
+
+2017-10-02 17:50:31 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'createtime' => '1506937831',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '427147390',
+    'from' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506937831',
+    'type' => 'text',
+    'content' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-10-02 17:50:31 response :
+------------
+
+2017-10-02 17:50:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937844</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18]]></EventKey>
+<MenuId>427147390</MenuId>
+</xml>
+
+2017-10-02 17:50:44 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'createtime' => '1506937844',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'menuid' => '427147390',
+    'from' => 'osBgU0yq74D9o2LhLIW3c85exsxo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506937844',
+    'type' => 'text',
+    'content' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&eid=18',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-10-02 17:50:44 response :
+------------
+
+2017-10-02 17:51:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937860</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[238373ebe758952263b888ab6a0c1b4d]]></EventKey>
+<Ticket><![CDATA[gQEA8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyQXB4ajhHTW9ja2oxMDAwMGcwN0kAAgTlC9JZAwQAAAAA]]></Ticket>
+</xml>
+
+2017-10-02 17:51:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0yq74D9o2LhLIW3c85exsxo]]></FromUserName>
+<CreateTime>1506937864</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[238373ebe758952263b888ab6a0c1b4d]]></EventKey>
+<Ticket><![CDATA[gQEA8TwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAyQXB4ajhHTW9ja2oxMDAwMGcwN0kAAgTlC9JZAwQAAAAA]]></Ticket>
+</xml>
+

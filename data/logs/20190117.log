@@ -1,0 +1,55 @@
+2019-01-17 10:41:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU03gKyLS_XMB0vVM3rWd8m1M]]></FromUserName>
+<CreateTime>1547692853</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2019-01-17 10:41:03 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU03gKyLS_XMB0vVM3rWd8m1M',
+    'createtime' => '1547692853',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'osBgU03gKyLS_XMB0vVM3rWd8m1M',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1547692853',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '首次',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2019-01-17 10:41:03 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU03gKyLS_XMB0vVM3rWd8m1M ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+

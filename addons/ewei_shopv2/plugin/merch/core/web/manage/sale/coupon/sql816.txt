@@ -1,0 +1,1 @@
+"SELECT d.*, c.coupontype,c.couponname,m.nickname,m.avatar,m.realname,m.mobile FROM `ims_ewei_shop_car_data` d  left join `ims_ewei_shop_car` c on d.couponid = c.id  left join `ims_ewei_shop_member` m on m.openid = d.openid and m.uniacid = d.uniacid  where  1 and  d.uniacid = :uniacid and ( d.chepai like :keyword or d.hexiaoma like :keyword) ORDER BY gettime DESC"

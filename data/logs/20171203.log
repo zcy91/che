@@ -1,0 +1,116 @@
+2017-12-03 15:46:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU05W9NcD_8gatm_Y00YED5Xw]]></FromUserName>
+<CreateTime>1512287164</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429677808</MenuId>
+</xml>
+
+2017-12-03 15:46:04 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU05W9NcD_8gatm_Y00YED5Xw',
+    'createtime' => '1512287164',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429677808',
+    'from' => 'osBgU05W9NcD_8gatm_Y00YED5Xw',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1512287164',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '27',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '32',
+    'rid' => '27',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-12-03 15:46:04 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU05W9NcD_8gatm_Y00YED5Xw ;
+MsgType : text ;
+Content : 欢迎光临 ;
+
+2017-12-03 15:47:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU05W9NcD_8gatm_Y00YED5Xw]]></FromUserName>
+<CreateTime>1512287250</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>429677808</MenuId>
+</xml>
+
+2017-12-03 15:47:30 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU05W9NcD_8gatm_Y00YED5Xw',
+    'createtime' => '1512287250',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '429677808',
+    'from' => 'osBgU05W9NcD_8gatm_Y00YED5Xw',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1512287250',
+    'type' => 'text',
+    'content' => '首次关注',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '27',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '32',
+    'rid' => '27',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-12-03 15:47:30 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU05W9NcD_8gatm_Y00YED5Xw ;
+MsgType : text ;
+Content : 欢迎光临 ;
+

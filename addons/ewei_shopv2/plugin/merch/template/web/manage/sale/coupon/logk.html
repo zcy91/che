@@ -1,0 +1,136 @@
+{template '_header'}
+<div class="page-heading"> 
+	
+	<span class='pull-right'>
+ 
+                
+		<a class="btn btn-default  btn-sm" href="{php echo webUrl('sale/car')}">返回列表</a>
+                
+                
+	</span>
+    <h2>洗车卡记录 <small>{if !empty($car)}洗车卡: {$car['couponname']}{/if} 总数: <span class="text-danger">{$total}</span></small></h2>
+</div>
+
+
+<form action="" method="get" class="form-horizontal" role="form" id="form1">
+    <input type="hidden" name="c" value="site" />
+    <input type="hidden" name="a" value="entry" />
+    <input type="hidden" name="m" value="ewei_shopv2" />
+    <input type="hidden" name="do" value="web" />
+    <input type="hidden" name="r" value="sale.coupon.logk" />
+    <input type="hidden" name="couponid" value="{$couponid}" />
+	
+    {if empty($car)}
+
+    <div class="page-toolbar row m-b-sm m-t-sm">
+        <div class="col-sm-12 pull-right">
+		
+        </div>
+    </div>
+    <div class="page-toolbar row m-b-sm m-t-sm">
+        <div class="col-sm-12 pull-right">
+
+            <div class="input-group">
+                <input type="text" class="input-sm form-control" name='keyword' value="{$_GPC['keyword']}" placeholder="请输入核销码"> 
+				<span class="input-group-btn">
+				<button class="btn btn-sm btn-primary" type="submit"> 搜索</button> 
+				{ifp 'sale.car.log.export'}
+				<button type="submit" name="export" value="1" class="btn btn-success btn-sm">导出</button>
+				{/if}
+                </span>
+            </div>
+		
+        </div>
+    </div>
+    {else}
+    <div class="page-toolbar row m-b-sm m-t-sm">
+        <div class="col-sm-12 pull-right">
+            <div class='input-group input-group-sm'  style='float:left;'  >
+                {php echo tpl_daterange('time', array('sm'=>true,'placeholder'=>'获得时间'),true);}
+            </div>
+            <div class='input-group input-group-sm'  style='float:left;'  >
+                {php echo tpl_daterange('time1', array('sm'=>true,'placeholder'=>'使用时间'),true);}
+            </div>
+            <div class="input-group">
+
+
+
+                <button class="btn btn-sm btn-primary" type="submit"> 搜索</button>
+                {ifp 'sale.car.log.export'}
+                <button type="submit" name="export" value="1" class="btn btn-success btn-sm">导出</button>
+                {/if}
+
+            </div>
+
+        </div></div>
+    {/if}
+
+</form>
+
+{if count($list)>0}
+<table class="table table-hover table-responsive">
+    <thead class="navbar-inner" >
+    <tr>
+
+        <th style='width:150px;'>洗车卡名称</th>
+        <th style='width:90px;'>会员信息</th>
+        <th style='width:100px;'></th>
+        <th style='width:80px;'>获得方式</th>
+        <th style='width:100px;'>获得时间</th>
+		
+		<th style='width:100px;'>车牌号</th>
+        <th style='width:100px;'>核销码</th>
+		<th style='width:100px;'>次/月剩余</th>
+		<th style='width:100px;'>状态</th>
+    </tr>
+    </thead>
+    <tbody>
+    {loop $list $row}
+    <tr>
+
+        <td>
+		{$row['couponname']}
+        </td>
+        <td>
+            <span data-toggle='tooltip'  title='{$row['nickname']}'>
+            <img src='{$row['avatar']}' style='width:30px;height:30px;padding1px;border:1px solid #ccc' />
+            {if empty($row['nickname'])}未更新{else}{$row['nickname']}{/if}</span>
+        </td>
+        <td>
+            {$row['realname']}<br/>{$row['mobile']}
+        </td>
+        <td>{$row['gettypestr']}</td>
+        <td>{php echo date('Y-m-d',$row['gettime'])}<br/>{php echo date('H:i',$row['gettime'])}</td>
+       
+        <td>{php echo empty($row['chepai'])?'---':$row['chepai']}</td>
+		<td>{php echo empty($row['hexiaoma'])?'---':$row['hexiaoma']}</td>
+		<td>
+				{$row['discount2']}次
+			</td>
+		{if $row['backtype'] ==1}
+			
+			 
+			<td>	
+			{if $row['discount2'] ==0}
+			本月已使用完
+			{else}
+			<a class='btn btn-default  btn-sm'  href="{php echo webUrl('sale/coupon/logk/update',array('id' => $row['id']));}" data-confirm="确定要关闭该洗车卡吗？">关闭一次</a>
+			{/if}
+			</td>
+		{/if}
+		
+		
+		
+    </tr>
+    {/loop}
+    </tbody>
+</table>
+{$pager}
+{else}
+<div class='panel panel-default'>
+    <div class='panel-body' style='text-align: center;padding:30px;'>
+        请搜索关闭本次使用!
+    </div>
+</div>
+{/if}
+{template '_footer'}

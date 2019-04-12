@@ -1,0 +1,1 @@
+"select * from `ims_ewei_shop_car_category` where uniacid=:uniacid"

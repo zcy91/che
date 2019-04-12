@@ -1,0 +1,12 @@
+2018-06-20 15:32:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0-3UwjO4ZsZNjMCihZUOUVA]]></FromUserName>
+<CreateTime>1529479936</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[60e8f6c4acac533022fbb051f3c46a0e]]></EventKey>
+<Ticket><![CDATA[gQGq8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAycUszTTllTW9ja2oxMDAwMGcwN1MAAgT6d9VZAwQAAAAA]]></Ticket>
+</xml>
+

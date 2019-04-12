@@ -1,0 +1,1 @@
+{"id":"144","uniacid":"1","openid":"osBgU0wMmGEJlmHJGNwjT4-EurDA","couponid":"26","discount2":"1","discount":"5","backtype":"1","gettype":"0","used":"0","usetime":"0","gettime":"1538983412","chestatus":"0","chepai":"666666","hexiaoma":"K-LDgyjb","cardtime":"0","senduid":"1","ordersn":"","back":"0","backtime":"0","merchid":"0","isnew":"0","nocount":"1","month":"10"}

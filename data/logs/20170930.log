@@ -1,0 +1,40 @@
+2017-09-30 15:47:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU03Fpnw6rstqUs3MXDbwVwUE]]></FromUserName>
+<CreateTime>1506757648</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member]]></EventKey>
+<MenuId>427147390</MenuId>
+</xml>
+
+2017-09-30 15:47:29 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU03Fpnw6rstqUs3MXDbwVwUE',
+    'createtime' => '1506757648',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'menuid' => '427147390',
+    'from' => 'osBgU03Fpnw6rstqUs3MXDbwVwUE',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1506757648',
+    'type' => 'text',
+    'content' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile&r=member',
+    'redirection' => true,
+    'source' => 'VIEW',
+  ),
+)
+
+2017-09-30 15:47:29 response :
+------------
+

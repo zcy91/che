@@ -1,0 +1,292 @@
+2018-04-30 12:11:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525061477</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-30 12:11:17 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'createtime' => '1525061477',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1525061477',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '首次',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2018-04-30 12:11:17 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0x78S3OkxQztqNG_f30Vddo ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2018-04-30 12:11:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525061514</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好，请问您联系方式]]></Content>
+<MsgId>6550089327452890975</MsgId>
+</xml>
+
+2018-04-30 12:11:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'createtime' => '1525061514',
+    'msgtype' => 'text',
+    'content' => '首次',
+    'msgid' => '6550089327452890975',
+    'from' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1525061514',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => true,
+    'source' => 'default',
+    'original' => '你好，请问您联系方式',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2018-04-30 12:11:54 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0x78S3OkxQztqNG_f30Vddo ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2018-04-30 12:12:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525061560</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你那边的联系方式]]></Content>
+<MsgId>6550089525021386615</MsgId>
+</xml>
+
+2018-04-30 12:12:40 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'createtime' => '1525061560',
+    'msgtype' => 'text',
+    'content' => '首次',
+    'msgid' => '6550089525021386615',
+    'from' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1525061560',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => true,
+    'source' => 'default',
+    'original' => '你那边的联系方式',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2018-04-30 12:12:40 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0x78S3OkxQztqNG_f30Vddo ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2018-04-30 12:13:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525061585</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile]]></EventKey>
+<MenuId>430124510</MenuId>
+</xml>
+
+2018-04-30 12:13:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'createtime' => '1525061585',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+    'menuid' => '430124510',
+    'from' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1525061585',
+    'type' => 'text',
+    'content' => '首次',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://jyqc.hejiewl.com/app/index.php?i=1&c=entry&m=ewei_shopv2&do=mobile',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2018-04-30 12:13:05 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0x78S3OkxQztqNG_f30Vddo ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2018-04-30 12:17:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525061878</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你们车行的电话号码多少？]]></Content>
+<MsgId>6550090890820986888</MsgId>
+</xml>
+
+2018-04-30 12:17:58 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_5c0f19e6e149',
+    'fromusername' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'createtime' => '1525061878',
+    'msgtype' => 'text',
+    'content' => '首次',
+    'msgid' => '6550090890820986888',
+    'from' => 'osBgU0x78S3OkxQztqNG_f30Vddo',
+    'to' => 'gh_5c0f19e6e149',
+    'time' => '1525061878',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => true,
+    'source' => 'default',
+    'original' => '你们车行的电话号码多少？',
+  ),
+  'module' => 'basic',
+  'rule' => '28',
+  'priority' => '255',
+  'keyword' => 
+  array (
+    'id' => '53',
+    'rid' => '28',
+    'uniacid' => '1',
+    'module' => 'basic',
+    'content' => '首次',
+    'type' => '2',
+    'displayorder' => '255',
+    'status' => '1',
+  ),
+)
+
+2018-04-30 12:17:58 response :
+------------
+Array:
+FromUserName : gh_5c0f19e6e149 ;
+ToUserName : osBgU0x78S3OkxQztqNG_f30Vddo ;
+MsgType : text ;
+Content : 经义汽车欢迎你! ;
+
+2018-04-30 14:01:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_5c0f19e6e149]]></ToUserName>
+<FromUserName><![CDATA[osBgU0x78S3OkxQztqNG_f30Vddo]]></FromUserName>
+<CreateTime>1525068117</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
